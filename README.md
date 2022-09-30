@@ -1,1 +1,1 @@
-# prog_parall-le_tp2
+# prog_parallele_tp2
